@@ -27,7 +27,7 @@ int main()
                          printf("press 20 to valine);
                          printf("enter a character");
                          scanf("%c",&code);
-                                genetic_code(x);
+                         genetic_code(x);
                                 
    return 0;
   }
