@@ -1,2 +1,2 @@
-# programming-language
-programe for beignner.
+# Pythone programming-language
+pythone Games.
